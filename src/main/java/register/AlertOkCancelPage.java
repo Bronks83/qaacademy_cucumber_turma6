@@ -1,4 +1,4 @@
-//package register;
+package register;//package register;
 //
 //import org.junit.Assert;
 //import org.openqa.selenium.Alert;
